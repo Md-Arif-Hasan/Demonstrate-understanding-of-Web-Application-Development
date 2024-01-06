@@ -24,8 +24,8 @@ Built with JavaScript, Node.js, and Express.js for the backend. Utilizes Sequeli
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Md-Arif-Hasan/Kontinentalist_backend/
-    cd Kontinentalist_backend
+    git clone https://github.com/Md-Arif-Hasan/REST-API-Development.git
+    cd REST-API-Development
     ```
 
 2. **Install dependencies using npm:**
