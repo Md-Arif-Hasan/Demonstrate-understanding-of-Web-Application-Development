@@ -1,5 +1,7 @@
 # Demonstrate understanding of Web Application Development
 
+Frontend part of the coding challange
+
 # REST API for Posts using Node.js and Express.js
 
 This project implements a simple RESTful API for managing posts using Node.js and Express.js. It provides endpoints to fetch all posts, fetch a post by ID, create a new post, edit an existing post, and delete a post.
