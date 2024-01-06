@@ -1,6 +1,6 @@
 # Demonstrate understanding of Web Application Development
 
-Frontend part of the coding challange
+
 
 # REST API for Posts using Node.js and Express.js
 
