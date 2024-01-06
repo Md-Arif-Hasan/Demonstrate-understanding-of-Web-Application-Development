@@ -1,4 +1,4 @@
-# Kontinentalist_backend
+# Demonstrate understanding of Web Application Development
 
 # REST API for Posts using Node.js and Express.js
 
